@@ -51,4 +51,4 @@ Interactive BPMN Swimlane Diagram:[View Published Diagram on draw.io](https://vi
 
 Supporting Documentation
 * [Business Process Diagram (PDF)](docs/business_process/business_process_diagram.pdf)
-* [One-Page Process Explanation (PDF)](docs/business_process/Business_process_explanation.pdf)
+* [One-Page Process Explanation (PDF)](docs/business_process/Business_Process_Explanation.pdf)
